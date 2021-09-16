@@ -1,0 +1,9 @@
+.apt_*
+.classpath
+.factorypath
+.project
+.settings/
+target/
+*~
+*.bak
+*.swp
